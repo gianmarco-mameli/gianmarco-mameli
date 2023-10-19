@@ -1,12 +1,11 @@
-<h2 align="center">I'm a System Engineer and Automation Engineer with passion for everything around IT Automation and IOT</h2>
+## I'm a System Engineer and Automation Engineer with passion for everything around IT Automation and IOT ##
 
-<h4 align="center">Reach me at:</h4>
+### Reach me at: ###
 
-<div align="center"> <a href="https://www.linkedin.com/in/gianmarco-mameli" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/gianmarco-mameli" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianmarco-mameli) [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gianmarco-mameli)
 
-<h3 align="center">Apps, languages, tools, likes:</h3>
-<p align="center">
+### Apps, languages, tools, likes: ### 
+<p align="left">
 <img height="32" width="32" src="https://cdn.simpleicons.org/1password" title="1password"/>
 <img height="32" width="32" src="https://cdn.simpleicons.org/adafruit/000/fff" title="adafruit"/>
 <img height="32" width="32" src="https://cdn.simpleicons.org/alpinelinux" title="alpinelinux"/>
@@ -120,9 +119,9 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/zigbee" title="zigbee"/>
 <img height="32" width="32" src="https://cdn.simpleicons.org/zwave" title="zwave"/>
 
-<h5 align="center">Icons by:<a href="https://simpleicons.org/"><img height="24" width="24" src="https://cdn.simpleicons.org/simpleicons/000/fff" title="simpleicons"/></h5></a>
+<h5 align="left">Icons by:<a href="https://simpleicons.org/"><img height="24" width="24" src="https://cdn.simpleicons.org/simpleicons/000/fff" title="simpleicons"/></h5></a>
 
-<h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/gianmarcomameli"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="160" alt="gianmarcomameli" /></a>
+### Support: ###
+<p align="left"><a href="https://www.buymeacoffee.com/gianmarcomameli"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="160" alt="gianmarcomameli" /></a>
 <a href="https://ko-fi.com/gianmarcomameli"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="160" alt="gianmarcomameli" /></a></p>
-<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=gianmarco-mameli&label=Profile%20views&color=0e75b6&style=flat" alt="gianmarco-mameli" /> </h3>
+<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=gianmarco-mameli&label=Profile%20views&color=0e75b6&style=flat" alt="gianmarco-mameli" /> </h3>
