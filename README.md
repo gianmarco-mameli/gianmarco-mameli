@@ -1,10 +1,13 @@
-## I'm a System Engineer and Automation Engineer with passion for everything around IT Automation and IOT ##
+<!-- markdownlint-disable MD033 -->
 
-### Reach me at: ###
+## I'm a System Engineer with passion for everything around IT Automation and IOT ##
+
+### Reach me at ###
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianmarco-mameli) [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gianmarco-mameli)
 
-### Apps, languages, tools, likes: ### 
+### Apps, languages, tools, likes ###
+
 <p align="left">
 <img height="32" width="32" src="https://cdn.simpleicons.org/1password" title="1password"/>
 <img height="32" width="32" src="https://cdn.simpleicons.org/adafruit/000/fff" title="adafruit"/>
@@ -121,7 +124,7 @@
 
 <h5 align="left">Icons by:<a href="https://simpleicons.org/"><img height="24" width="24" src="https://cdn.simpleicons.org/simpleicons/000/fff" title="simpleicons"/></h5></a>
 
-### Support: ###
+### Support ###
+
 <p align="left"><a href="https://www.buymeacoffee.com/gianmarcomameli"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="160" alt="gianmarcomameli" /></a>
 <a href="https://ko-fi.com/gianmarcomameli"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="160" alt="gianmarcomameli" /></a></p>
-<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=gianmarco-mameli&label=Profile%20views&color=0e75b6&style=flat" alt="gianmarco-mameli" /> </h3>
