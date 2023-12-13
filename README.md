@@ -120,7 +120,6 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/yaml" title="yaml"/>
 <img height="32" width="32" src="https://cdn.simpleicons.org/youtube" title="youtube"/>
 <img height="32" width="32" src="https://cdn.simpleicons.org/zigbee" title="zigbee"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/zwave" title="zwave"/>
 
 <h5 align="left">Icons by:<a href="https://simpleicons.org/"><img height="24" width="24" src="https://cdn.simpleicons.org/simpleicons/000/fff" title="simpleicons"/></h5></a>
 
