@@ -57,6 +57,7 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/icloud" title="icloud"/>
 <img height="32" width="32" src="https://cdn.simpleicons.org/ifixit" title="ifixit"/>
 <img height="32" width="32" src="https://cdn.simpleicons.org/ikea" title="ikea"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/imessage" title="imessage"/>
 <img height="32" width="32" src="https://cdn.simpleicons.org/influxdb" title="influxdb"/>
 <img height="32" width="32" src="https://cdn.simpleicons.org/ios/000/fff" title="ios"/>
 <img height="32" width="32" src="https://cdn.simpleicons.org/jinja" title="jinja"/>
